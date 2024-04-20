@@ -15,7 +15,7 @@ To include this library in your Rust project, add the following to your `Cargo.t
 
 ```toml
 [dependencies]
-sorting_lib = { git = "https://github.com/yourusername/sorting_lib.git" }
+sorting_lib = { git = "https://github.com/xbtio/Blockchain2-Assignment1.git" }
 ```
 
 Usage 
